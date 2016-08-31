@@ -38,5 +38,5 @@ if(poker.GetCur() == head) { //Added by lch (50~62): I found '9' located 'head',
   
 The cover of this book:
 ------------------------
-![](https://github.com/lchia/beauty_of_algorithm/beauty_of_algorithm.png)
+![](https://github.com/lchia/beauty_of_algorithm/blob/master/beauty_of_algorithm.png)
 
